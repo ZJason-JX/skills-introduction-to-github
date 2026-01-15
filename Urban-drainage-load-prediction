@@ -1,0 +1,11 @@
+/urban-drainage-load-prediction
+  /README.md           # 项目简介、背景、目标等
+  /docs
+    - PRD.pdf           # PRD 文件
+    - Prototype.png      # 原型图（如有）
+  /src
+    - model.py          # Python 模型代码
+    - utils.py          # 辅助功能文件
+    - requirements.txt  # 所需库和环境
+  /notebooks
+    - example_notebook.ipynb   # 示例 Jupyter Notebook（可选）
